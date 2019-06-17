@@ -1,1 +1,1 @@
-alert('func');
+alert('funciona');
